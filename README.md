@@ -15,6 +15,9 @@ Vim
 C / Low level
 - https://github.com/gurugio/lowlevelprogramming-university
 
+C++
+- https://www.tutorialspoint.com/cplusplus/
+
 Django
 - https://github.com/rosarior/awesome-django
 - https://github.com/rogueleaderr/definitive_guide_to_django_deployment
