@@ -29,3 +29,8 @@ Machine learning
 - https://github.com/jakevdp/PythonDataScienceHandbook
 - http://scikit-learn.org/stable/
 
+Rust / OS
+- https://os.phil-opp.com/
+- https://readrust.net/operating-systems/
+- https://doc.redox-os.org/book/overview/what_redox_is.html
+- http://rust-class.org/class-1-what-is-an-operating-system.html
